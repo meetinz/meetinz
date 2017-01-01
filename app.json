@@ -1,0 +1,16 @@
+{
+  "name": "meetinz",
+  "description": "meet new people",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
